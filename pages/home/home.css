@@ -1,0 +1,12 @@
+ion-content {
+   background: linear-gradient(to left, #373b44, #4286f4);
+}
+
+h2 {
+  color: #ffffff;
+}
+
+p {
+  color: #ffffff;
+  text-align: justify;
+}
