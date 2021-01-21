@@ -7,7 +7,12 @@ h2 {
   text-align: center
 }
 
+h3 {
+  color: #ffffff;
+  text-align: center
+}
+
 p {
   color: #ffffff;
-  text-align: justify;
+  text-align: center;
 }
